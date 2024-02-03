@@ -1,3 +1,6 @@
+# Database 
+![db](https://github.com/eht-ck/o2oassignment/assets/95522110/4b6e399f-539c-4025-bc4c-71e5a741a67a)
+
 # Inventory Management System
 
 This is a sample inventory management system built with Express.js and Apollo Server, leveraging Hasura GraphQL for data storage and retrieval.
