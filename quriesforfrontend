@@ -1,0 +1,10 @@
+query MyQuery {
+  product(where: {}) {
+    product_id
+    totalstock
+  }
+  varient {
+    price
+    description
+  }
+}
